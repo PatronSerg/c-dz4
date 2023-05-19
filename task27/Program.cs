@@ -18,6 +18,6 @@ int Sum(int n)
 
 System.Console.WriteLine("Введите число :");
 int n = Convert.ToInt32(Console.ReadLine());
-int res = Sum(n);
-Console.WriteLine(res);
+// int res = Sum(n);
+Console.WriteLine(Sum(n));
 
